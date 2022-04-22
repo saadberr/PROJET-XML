@@ -1,0 +1,21 @@
+<!ELEMENT ODCO (Responsables, Missions, Cooperatives-par-secteur-2020, Cooperatives-par-region-2020)>
+<!ELEMENT Responsables (directeur, responsabilite+, delegationsregional, InspecteurGeneral)>
+<!ELEMENT directeur (#PCDATA)>
+<!ELEMENT responsabilite (chef, metier, sous-responsabilite+)>
+<!ELEMENT chef (#PCDATA)>
+<!ELEMENT metier (#PCDATA)>
+<!ELEMENT sous-responsabilite (chef, metier)>
+<!ELEMENT delegationsregional (ville+)>
+<!ELEMENT ville (nom, responsable)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT responsable (#PCDATA)>
+<!ELEMENT InspecteurGeneral (#PCDATA)>
+<!ELEMENT Missions (service+)>
+<!ELEMENT service (nom, mission+)>
+<!ELEMENT mission (#PCDATA)>
+<!ELEMENT Cooperatives-par-secteur-2020 (secteur+)>
+<!ELEMENT secteur (nom, nbrCooperatives, nbrAdherants)>
+<!ELEMENT nbrCooperatives (#PCDATA)>
+<!ELEMENT nbrAdherants (#PCDATA)>
+<!ELEMENT Cooperatives-par-region-2020 (region+)>
+<!ELEMENT region (nom, nbrCooperatives, nbrAdherants)>

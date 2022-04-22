@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ODCO>
+<Responsables>
+	<directeur>Youssef Hosni</directeur>
+	<responsabilite>
+		<chef>KHALESS Hakima</chef>
+		<metier>Chef de la Division « Formation et Information » </metier>
+		<sous-responsabilite>
+			<chef>AFTIHY  Mostapha</chef>
+			<metier>Chef du Service de « Formation » </metier>
+		</sous-responsabilite>
+		<sous-responsabilite>
+			<chef>BENOUAICHA  Mostapha</chef>
+			<metier>Chef du Service de « l’Information » </metier>
+		</sous-responsabilite>
+	</responsabilite>
+	<responsabilite>
+		<chef>LAABID Abdelouahed</chef>
+		<metier>Chef de la Division Etudes et Assistance aux Coopératives </metier>
+		<sous-responsabilite>
+			<chef>HILALI Mohammed</chef>
+			<metier>Chef du Service « Economique » </metier>
+		</sous-responsabilite>
+		<sous-responsabilite>
+			<chef>LHAJJI Slimane</chef>
+			<metier>Chef du Service « Juridique » </metier>
+		</sous-responsabilite>
+	</responsabilite>
+	<responsabilite>
+		<chef>Mounia Hasnaoui</chef>
+		<metier>Chef de Division « Financière et des Ressources Humaines » </metier>
+		<sous-responsabilite>
+			<chef>ABDENNEBI Brahim</chef>
+			<metier>Chef de Service « Finance et Recouvrement » </metier>
+		</sous-responsabilite>
+		<sous-responsabilite>
+			<chef>EL BAZI Rachid</chef>
+			<metier>Chef de Service « Administratif » </metier>
+		</sous-responsabilite>
+	</responsabilite>
+	<delegationsregional>
+		<ville>
+			<nom>Casablanca </nom>
+			<responsable> ABAKRI Sophia</responsable>
+		</ville>
+		<ville>
+			<nom>Laayoune </nom>
+			<responsable>AKCHAT Abdelghani</responsable>
+		</ville>
+		<ville>
+			<nom>Kénitra </nom>
+			<responsable>EL ASRAOUI  Mustapha</responsable>
+		</ville>
+		<ville>
+			<nom>Guelmim </nom>
+			<responsable>EL FATIMI Moulay Hachem</responsable>
+		</ville>
+		<ville>
+			<nom>Settat </nom>
+			<responsable>ELHOUNAINI  Bouchaib</responsable>
+		</ville>
+		<ville>
+			<nom>Meknes </nom>
+			<responsable>BASSI Abdellah</responsable>
+		</ville>
+		<ville>
+			<nom>Safi </nom>
+			<responsable>HAZIL  Ahmed</responsable>
+		</ville>
+		<ville>
+			<nom>Fes </nom>
+			<responsable>MOUNIAM Omar</responsable>
+		</ville>
+		<ville>
+			<nom>Agadir </nom>
+			<responsable>MAHFOUDI  Mohammed</responsable>
+		</ville>
+		<ville>
+			<nom>Tanger </nom>
+			<responsable>NOUAS Jamal</responsable>
+		</ville>
+		<ville>
+			<nom>Marrakech </nom>
+			<responsable>OUDLI Hassan</responsable>
+		</ville>
+		<ville>
+			<nom>Oujda </nom>
+			<responsable>AKHIAR Oussama</responsable>
+		</ville>
+		<ville>
+			<nom>Beni Mellal </nom>
+			<responsable>TAOUFIQ Riad</responsable>
+		</ville>
+		<ville>
+			<nom>El Houceima </nom>
+			<responsable>LATIF Driss</responsable>
+		</ville>
+		<ville>
+			<nom>Dakhla </nom>
+			<responsable>------------</responsable>
+		</ville>
+	</delegationsregional>
+	<InspecteurGeneral></InspecteurGeneral>
+</Responsables>
+<Missions>
+	<service>
+		<nom>SERVICE  INFORMATION</nom>
+		<mission>- Elaboration de la stratégie annuelle de sensibilisation</mission>
+		<mission>- Elaboration du programme de sensibilisation</mission>
+		<mission>- Réalisation du programme de sensibilisation</mission>
+		<mission>- Suivi de l’impact des actions de sensibilisation</mission>
+		<mission>- Gestion des partenariats</mission>
+		<mission>- Organisation événementiel</mission>
+	</service>
+	<service>
+		<nom>SERVICE  JURIDIQUE</nom>
+		<mission>- Assistance juridique des coopératives</mission>
+		<mission>- Validation de la dénomination des coopératives</mission>
+		<mission>- Traitement de la radiation des coopératives</mission>
+		<mission>- S'assurer de la vocation coopérative des projets coopératifs enregistrés auprès des registres locaux des coopératives.</mission>
+		<mission>- S'assurer de la conformité des dossiers envoyés par registres locaux des coopératives au registre central des coopératives</mission>
+	</service>
+	<service>
+		<nom>SERVICE  ECONOMIQUE</nom>
+		<mission>- Tenue du registre central</mission>
+		<mission>- Appui économique des coopératives</mission>
+		<mission>- Diagnostic et contrôle des Coopératives</mission>
+		<mission>- Elaboration des statistiques relatives aux coopératives</mission>
+		<mission>- Pilotage des systèmes d’informations</mission>
+	</service>
+	<service>
+		<nom>SERVICE  FORMATION</nom>
+		<mission>- Elaboration de la stratégie de formation</mission>
+		<mission>- Préparation du programme annuel de formation</mission>
+		<mission>- Réalisation du programme de formation</mission>
+		<mission>- Evaluation du programme de formation</mission>
+	</service>
+	<service>
+		<nom>SERVICE  FINANCIER</nom>
+		<mission>- Gestion des achats</mission>
+		<mission>- Gestion de la comptabilité</mission>
+		<mission>- Gestion de la taxe parafiscale </mission>
+	</service>
+	<service>
+		<nom>SERVICE  ADMINISTRATIF</nom>
+		<mission>- Génération et contrôle de la paie</mission>
+		<mission>- Gestion des affaires du personnel</mission>
+		<mission>- Gestion du plan de formation du personnel</mission>
+		<mission>- Gestion des immobilisations</mission>
+		<mission> </mission>
+	</service>
+</Missions>
+<Cooperatives-par-secteur-2020>
+	<secteur>
+		<nom>AGRICULTURE (H.R.A)</nom>
+		<nbrCooperatives>25646</nbrCooperatives>
+		<nbrAdherants>458115</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>ARTISANAT</nom>
+		<nbrCooperatives>7833</nbrCooperatives>
+		<nbrAdherants>65599</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>HABITAT</nom>
+		<nbrCooperatives>1238</nbrCooperatives>
+		<nbrAdherants>51331</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>COMMERCANTS / ET SERVICES</nom>
+		<nbrCooperatives>51</nbrCooperatives>
+		<nbrAdherants>6091</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>ARGANE</nom>
+		<nbrCooperatives>805</nbrCooperatives>
+		<nbrAdherants>11986</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>PLANTES MEDICINALES ET AROMATIQUES</nom>
+		<nbrCooperatives>678</nbrCooperatives>
+		<nbrAdherants>8920</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>DENRÉES ALIMENTAIRES</nom>
+		<nbrCooperatives>590</nbrCooperatives>
+		<nbrAdherants>4525</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>PECHE</nom>
+		<nbrCooperatives>556</nbrCooperatives>
+		<nbrAdherants>7894</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>ALPHABETISATION</nom>
+		<nbrCooperatives>555</nbrCooperatives>
+		<nbrAdherants>3439</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>FORETS</nom>
+		<nbrCooperatives>509</nbrCooperatives>
+		<nbrAdherants>12343</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>TOURISME</nom>
+		<nbrCooperatives>343</nbrCooperatives>
+		<nbrAdherants>1911</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>TRANSPORT</nom>
+		<nbrCooperatives>166</nbrCooperatives>
+		<nbrAdherants>2435</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>TRAITEMENT DE DECHETS</nom>
+		<nbrCooperatives>146</nbrCooperatives>
+		<nbrAdherants>1116</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>MAIN D'OEUVRE</nom>
+		<nbrCooperatives>128</nbrCooperatives>
+		<nbrAdherants>828</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>IMPRIMERIE-PAPETERIE</nom>
+		<nbrCooperatives>86</nbrCooperatives>
+		<nbrAdherants>447</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>EXPLOITATION DES CARRIERES</nom>
+		<nbrCooperatives>80</nbrCooperatives>
+		<nbrAdherants>1782</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>ART ET CULTURE</nom>
+		<nbrCooperatives>56</nbrCooperatives>
+		<nbrAdherants>313</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>CONSEIL ET GESTION</nom>
+		<nbrCooperatives>49</nbrCooperatives>
+		<nbrAdherants>309</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>CONSOMMATION</nom>
+		<nbrCooperatives>43</nbrCooperatives>
+		<nbrAdherants>6868</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>TELECOMMUNICATION</nom>
+		<nbrCooperatives>30</nbrCooperatives>
+		<nbrAdherants>164</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>COMMERCE ELECTRONIQUE</nom>
+		<nbrCooperatives>24</nbrCooperatives>
+		<nbrAdherants>120</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>MINES</nom>
+		<nbrCooperatives>19</nbrCooperatives>
+		<nbrAdherants>365</nbrAdherants>
+	</secteur>
+	<secteur>
+		<nom>TOTAL</nom>
+		<nbrCooperatives>40531</nbrCooperatives>
+		<nbrAdherants>646901</nbrAdherants>
+	</secteur>
+</Cooperatives-par-secteur-2020>
+<Cooperatives-par-region-2020>
+	<region>
+		<nom>L'ORIENTAL</nom>
+		<nbrCooperatives>5517</nbrCooperatives>
+		<nbrAdherants>79602</nbrAdherants>
+	</region>
+	<region>
+		<nom>MARRAKECH SAFI</nom>
+		<nbrCooperatives>4364</nbrCooperatives>
+		<nbrAdherants>88528</nbrAdherants>
+	</region>
+	<region>
+		<nom>FES -MEKNES</nom>
+		<nbrCooperatives>4281</nbrCooperatives>
+		<nbrAdherants>52152</nbrAdherants>
+	</region>
+	<region>
+		<nom>CASABLANCA SETTAT</nom>
+		<nbrCooperatives>3966</nbrCooperatives>
+		<nbrAdherants>92198</nbrAdherants>
+	</region>
+	<region>
+		<nom>SOUSS MASSA</nom>
+		<nbrCooperatives>3929</nbrCooperatives>
+		<nbrAdherants>56781</nbrAdherants>
+	</region>
+	<region>
+		<nom>RABAT SALE KENITRA</nom>
+		<nbrCooperatives>3608</nbrCooperatives>
+		<nbrAdherants>57653</nbrAdherants>
+	</region>
+	<region>
+		<nom>TANGER TETOUAN AL HOCEIMA</nom>
+		<nbrCooperatives>3065</nbrCooperatives>
+		<nbrAdherants>49120</nbrAdherants>
+	</region>
+	<region>
+		<nom>DARAA TAFILALET</nom>
+		<nbrCooperatives>3058</nbrCooperatives>
+		<nbrAdherants>60216</nbrAdherants>
+	</region>
+	<region>
+		<nom>BENI MELLAL KHENIFRA</nom>
+		<nbrCooperatives>2831</nbrCooperatives>
+		<nbrAdherants>68977</nbrAdherants>
+	</region>
+	<region>
+		<nom>GUELMIM OUD NOUN</nom>
+		<nbrCooperatives>2775</nbrCooperatives>
+		<nbrAdherants>20157</nbrAdherants>
+	</region>
+	<region>
+		<nom>LAAYOUNE SAKIA AL HAMRA</nom>
+		<nbrCooperatives>2742</nbrCooperatives>
+		<nbrAdherants>18526</nbrAdherants>
+	</region>
+	<region>
+		<nom>DAKHLA OUED EDDAHAB</nom>
+		<nbrCooperatives>395</nbrCooperatives>
+		<nbrAdherants>2991</nbrAdherants>
+	</region>
+	<region>
+		<nom>TOTAL</nom>
+		<nbrCooperatives>40531</nbrCooperatives>
+		<nbrAdherants>646901</nbrAdherants>
+	</region>
+</Cooperatives-par-region-2020>
+</ODCO>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="ODCO">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Responsables"/>
+        <xs:element ref="Missions"/>
+        <xs:element ref="Cooperatives-par-secteur-2020"/>
+        <xs:element ref="Cooperatives-par-region-2020"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Responsables">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="directeur" type="xs:string"/>
+        <xs:element ref="responsabilite" maxOccurs="unbounded"/>
+        <xs:element ref="delegationsregional"/>
+        <xs:element name="InspecteurGeneral" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="responsabilite">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="chef" type="xs:string"/>
+        <xs:element name="metier" type="xs:string"/>
+        <xs:element ref="sous-responsabilite" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sous-responsabilite">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="chef" type="xs:string"/>
+        <xs:element name="metier" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="delegationsregional">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ville" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ville">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="responsable" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Missions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="service" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="service">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="mission" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Cooperatives-par-secteur-2020">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="secteur" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="secteur">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="nbrCooperatives" type="xs:string"/>
+        <xs:element name="nbrAdherants" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Cooperatives-par-region-2020">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="region" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="region">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="nbrCooperatives" type="xs:string"/>
+        <xs:element name="nbrAdherants" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
