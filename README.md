@@ -5,7 +5,7 @@ Construction et requetage d'une base de données semi-structurée (XML) à parti
 Organisme public, le Bureau du Développement de la Coopération (BDECo) a été créé le 18 Septembre 1962 sous forme de structure administrative dépendante de la présidence du Conseil de Gouvernement. Avec l’importance accordée par les pouvoirs publics au secteur coopératif, la nécessité de sa restructuration s’est imposée ; d’où sa conversion en établissement public bénéficiant de la personnalité morale et l’autonomie et financière dénommé Office de Développement de la Coopération (ODCO) conformément au Dahir du 3 Août 1975 doté d’attributions précises orientées principalement vers l’accompagnement des coopératives dans les domaines de la formation, l’information et l’appui juridique.
 
 ## Travail fait :
-- 1)- Construire une base de données XML significative pour l'ODCO en utilisant le web scraping(odco.py).
+- 1)- Construire une base de données XML significative pour l'ODCO en utilisant le web scraping.
 - 2)- Description des données avec XML (en illustrant la VARIABILITE des
 données). L’échantillon des données doit être représentatif des différentes
 variétés des données. Un schéma DTD et un schéma XSD (à générer
